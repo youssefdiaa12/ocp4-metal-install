@@ -16,7 +16,7 @@
   - [Access the OpenShift Console](#access-the-openshift-console)
   - [Troubleshooting](#troubleshooting)
 
-## Architecture Diagram
+## Architecture Diagram.
 
 ![Architecture Diagram](./diagram/Architecture.png)
 
